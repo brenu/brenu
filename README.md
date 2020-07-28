@@ -1,4 +1,4 @@
-<img align="left" width="500" height="500" src="./public/octocat.png">
+<img align="left" width="500" height="500" src="https://github.com/brenu/brenu/blob/master/public/octocat.png">
 
 # :walking:Breno Vitório
 
