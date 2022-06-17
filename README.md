@@ -4,10 +4,9 @@
 
 ## Hello there, and welcome to my profile! :hugs:
 
-- 🔭 I’m currently working as a Full Stack developer
+- 🔭 I’m currently working as an Application Security Engineer
 - 🌱 Recently, I've been learning general concepts of Cybersecurity
 - 🤔 I’m looking for help with studying possible Insecure Deserialization vectors
-- 📫 How to reach me: bvsousadev@gmail.com
 - ⚡ Fun fact: I love lasagna :heart:
 
 <br>
