@@ -5,8 +5,7 @@
 ## Hello there, and welcome to my profile! :hugs:
 
 - 🔭 I’m currently working as an Application Security Engineer
-- 🌱 Recently, I've been learning general concepts of Cybersecurity
-- 🤔 I’m looking for help with studying possible Insecure Deserialization vectors
+- 🌱 Recently, I've been learning a little bit about game porting, by using the PSVita as an object of study
 - ⚡ Fun fact: I love lasagna :heart:
 
 <br>
@@ -61,9 +60,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=brenu&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenu&hide=TeX&layout=compact)
 
 ## Contact
 
